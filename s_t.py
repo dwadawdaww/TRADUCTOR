@@ -21,6 +21,11 @@ image = Image.open('traductor.jpg')
 
 st.image(image)
 
+image2 = Image.open('logoTodoEventos.png')
+
+st.image(image2)
+
+
 
 st.write("Toca el Botón y habla lo que quires traducir")
 
